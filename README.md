@@ -6,7 +6,7 @@ Formado en Academia X (2025–2026). Me gusta construir productos completos: des
 
 ## Proyecto principal: [Reservahoy](https://github.com/josemjmqs/Reservahoy)
 
-Plataforma de reservas online para pequeños negocios, en producción. Cada negocio tiene su página pública donde los clientes reservan sin crear cuenta, y un panel con roles para el dueño y su equipo.
+Plataforma de reservas online para pequeños negocios, en producción y usada por un negocio real. Cada negocio tiene su página pública donde los clientes reservan sin crear cuenta, y un panel con roles para el dueño y su equipo.
 
 - Cero dobles reservas, garantizado por una restricción de PostgreSQL y probado con peticiones simultáneas.
 - Roles, invitaciones por correo y cierre de sesiones al quitar el acceso.
